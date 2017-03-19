@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 1d821d207fccca6488f118ca944e940f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 0_hits
+    21300002: left_brick
+    21300004: right_brick
+    21300006: 1_hits
+    21300008: 2_hits
+    21300010: full brick_0
+    21300012: full brick_1
+    21300014: full brick_2
+    21300016: full brick_3
+    21300018: full brick_4
+    21300020: full brick_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: full brick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: full brick_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: full brick_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 132
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: full brick_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: full brick_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: full brick_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
